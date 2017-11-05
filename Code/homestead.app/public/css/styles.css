@@ -1,0 +1,52 @@
+.container-1 input#search {
+    width: 300px;
+    height: 50px;
+    background:lightgray;
+    border:lightgray;
+    font-size: 10pt;
+    float: left;
+    color: black;
+    padding-left: 45px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  .container-1 .icon {
+    position: absolute;
+    top: 50%;
+    margin-left: 15px;
+    margin-top: 5px;
+    z-index: 1;
+    color: #4f5b66;
+  }
+
+  .container-2 input#dropdown_header { 
+    width: 300px;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 5px;
+    background:lightgray;
+    border:lightgray;
+    font-size: 10pt;
+    float: left;
+    color: black;
+    padding-left: 45px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  div.video_1 {
+    width: 20px;
+    height: 60px;
+    top: 10px;
+    right: 10px;
+  }
+
+
+  div.first_video {
+    top: 120px;
+    right: 120px;
+  }
+ 
