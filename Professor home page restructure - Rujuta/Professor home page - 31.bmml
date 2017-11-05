@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1081" measuredH="513" mockupW="970" mockupH="451">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="111" y="72" w="970" h="441" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="111" y="62" w="970" h="107" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="130" y="95" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>file-video-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="186" y="111" w="-1" h="-1" measuredW="173" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>The%20Video%20Collaboratory</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="997" y="85" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>user-circle-o%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="995" y="131" w="-1" h="-1" measuredW="36" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>12</size>
+        <text>Rujuta</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="130" y="223" w="-1" h="-1" measuredW="266" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>HOME/%20ITIS%206177%20/%20NOTIFICATIONS</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="171" y="262" w="851" h="129" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="171" y="295" w="850" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="973" y="168" w="108" h="38" measuredW="65" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Groups</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="869" y="168" w="108" h="38" measuredW="66" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Professor%20home%20page%20-%2032%26bm%3BProfessor%20home%20page%20-%2032.bmml%26bm%3BProfessor%20home%20page%20-%2032.bmml%26bm%3BProfessor%20home%20page%20-%2032.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C106%2C866%2C144%22%20href%3D%22Professor%2520home%2520page%2520-%252032.bmml%22%20alt%3D%22Professor%20home%20page%20-%2032%22%20id%3D%2210%22/%3E</map>
+        <text>%20Videos</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="766" y="168" w="108" h="38" measuredW="95" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notifications</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="112" y="167" w="108" h="38" measuredW="56" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Professor%20home%20page%20-1%26bm%3BProfessor%20home%20page%20-1.bmml%26bm%3BProfessor%20home%20page%20-1.bmml%26bm%3BProfessor%20home%20page%20-1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221%2C105%2C109%2C143%22%20href%3D%22Professor%2520home%2520page%2520-1.bmml%22%20alt%3D%22Professor%20home%20page%20-1%22%20id%3D%2212%22/%3E</map>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HRule" x="111" y="198" w="970" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="404" y="274" w="-1" h="-1" measuredW="207" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Professor%20home%20page%20-%2035%26bm%3BProfessor%20home%20page%20-%2035.bmml%26bm%3BProfessor%20home%20page%20-%2035.bmml%26bm%3BProfessor%20home%20page%20-%2035.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22293%2C212%2C500%2C233%22%20href%3D%22Professor%2520home%2520page%2520-%252035.bmml%22%20alt%3D%22Professor%20home%20page%20-%2035%22%20id%3D%2215%22/%3E</map>
+        <text>Title%20%3A%20%22Please%20re%20-%20watch%20the%20video%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::HRule" x="171" y="331" w="850" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="220" y="274" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>From%20%3A%20Prof.%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="884" y="274" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thur.%206%3A15pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="220" y="310" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>From%20%3A%20Prof.%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="404" y="308" w="-1" h="-1" measuredW="201" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title%20%3A%20%22Observe%20video%20at%200%3A19%20sec%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="888" y="309" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fri%207%3A10pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Icon" x="186" y="275" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+        <icon>exclamation-triangle%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
